@@ -1,32 +1,38 @@
-.speech{
+.Speech{
         font-size: 40; 
         font-family: Palatino, "Palatino Linotype", serif; 
         color: black;
 
 }
 
-.direction{
+.Directions{
         font-size: 36; 
         font-family: Palatino, "Palatino Linotype", serif; 
         color: black;
-        background-color: lightblue;
+        background-color: rgb(212, 228, 60);
+        display: inline-block;
 }
-.direction:hover {
+.Directions:hover {
     background-color: lightblue; 
-    color: rgb(179, 12, 12); 
+    color: rgb(255, 8, 8); 
 }
-.Mrs.Stockmann{
+.MrsStockmann{
     font-size: 40; 
-    color: rgb(26, 178, 26);
+    color: rgb(237, 146, 26);
+    font-style: oblique;
+}
+.DrStockmann{
+    font-size: 40; 
+    color: rgb(237, 146, 26);
     font-style: oblique;
 }
 .Hovstad{
     font-size: 40; 
-    color: rgb(26, 178, 26);
+    color: rgb(237, 146, 26);
     font-style: oblique;
 }
 .PeterStockmann{
     font-size: 40; 
-    color: rgb(26, 178, 26);
+    color: rgb(237, 146, 26);
     font-style: oblique;
 }
