@@ -2,8 +2,7 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
 
-[hosted at] [def]
-
+[Hosted at] [def]
 [def]: https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-yeswanthkanakala07/playpart.html
 
 
