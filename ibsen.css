@@ -1,0 +1,32 @@
+.speech{
+        font-size: 40; 
+        font-family: Palatino, "Palatino Linotype", serif; 
+        color: black;
+
+}
+
+.direction{
+        font-size: 36; 
+        font-family: Palatino, "Palatino Linotype", serif; 
+        color: black;
+        background-color: lightblue;
+}
+.direction:hover {
+    background-color: lightblue; 
+    color: rgb(179, 12, 12); 
+}
+.Mrs.Stockmann{
+    font-size: 40; 
+    color: rgb(26, 178, 26);
+    font-style: oblique;
+}
+.Hovstad{
+    font-size: 40; 
+    color: rgb(26, 178, 26);
+    font-style: oblique;
+}
+.PeterStockmann{
+    font-size: 40; 
+    color: rgb(26, 178, 26);
+    font-style: oblique;
+}
